@@ -9,3 +9,9 @@
 
 - [🔗Link to resources](https://github.com/Aman071106/Machine-Learning/tree/main/Sec(1-17)Python%20And%20Installation)
 
+### Github codespace
+- Very useful like colab
+- VSC like env
+
+### Note:
+* gpu and cpu is not provided in anaconda , we have to use our own 
