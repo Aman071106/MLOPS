@@ -13,5 +13,9 @@
 - Very useful like colab
 - VSC like env
 
+### Kaggle notebook
+- Very useful like colab
+
+
 ### Note:
 * gpu and cpu is not provided in anaconda , we have to use our own 

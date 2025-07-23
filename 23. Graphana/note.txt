@@ -1,0 +1,14 @@
+We also learnt postgresql here.
+
+nd three tools:
+1. Grafana
+2. DbBeaver
+3. aws rds for postgresql
+
+
+key learning:
+similar methods can  be adapted for multiple cloud services.
+and we try to use any remote services by python and other libraries. so that we can code!!
+
+
+Some services require ipv4 connectons for eg grafana so if ipv6 don't work or you face acess denied  several times then try ipv4 or session pooler.
